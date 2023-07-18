@@ -1,0 +1,24 @@
+name: theming_like_a_pro
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  async_wallpaper: ^2.0.3
+  device_preview: ^1.1.0
+  flutter:
+    sdk: flutter
+  geolocator: ^9.0.2
+  google_maps_flutter: ^2.3.1
+  provider: ^6.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
